@@ -21,18 +21,18 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="C" width="32px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/c/c_32x32.png" />]
-[<img align="left" alt="Debian" width="32px" src="https://raw.githubusercontent.com/antoniotrento/devicon/b80c6d9acb7b58b80904769015f9e0dd36fe46d2/icons/debian/debian-original.svg" />]
-[<img align="left" alt="Docker" width="32px" src="https://raw.githubusercontent.com/antoniotrento/devicon/b80c6d9acb7b58b80904769015f9e0dd36fe46d2/icons/docker/docker-original.svg" />]
-[<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Golang" width="32px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/go/go_32x32.png" />]
-[<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/python/python_32x32.png" />]
-[<img align="left" alt="Vim" width="32px" src="https://raw.githubusercontent.com/antoniotrento/devicon/b80c6d9acb7b58b80904769015f9e0dd36fe46d2/icons/vim/vim-original.svg" />]
+<img align="left" alt="C" width="32px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/c/c_32x32.png" />
+<img align="left" alt="Debian" width="32px" src="https://raw.githubusercontent.com/antoniotrento/devicon/b80c6d9acb7b58b80904769015f9e0dd36fe46d2/icons/debian/debian-original.svg" />
+<img align="left" alt="Docker" width="32px" src="https://raw.githubusercontent.com/antoniotrento/devicon/b80c6d9acb7b58b80904769015f9e0dd36fe46d2/icons/docker/docker-original.svg" />
+<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Golang" width="32px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/go/go_32x32.png" />
+<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/python/python_32x32.png" />
+<img align="left" alt="Vim" width="32px" src="https://raw.githubusercontent.com/antoniotrento/devicon/b80c6d9acb7b58b80904769015f9e0dd36fe46d2/icons/vim/vim-original.svg" />
 
 <br />
 <br />
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ret2binsh&show_icons=true&hide_border=true" />
+<img align="left" alt="ret2binsh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ret2binsh&show_icons=true&hide_border=true" />
 
 [website]: https://www.ret2bin.sh
 [linkedin]: https://www.linkedin.com/in/joshuabgonzales/
