@@ -35,7 +35,7 @@
 <br />
 <br />
 
-[![ret2binsh's github stats](github-readme-stats.ret2binsh.vercel.app/api?username=ret2binsh)]
+[![Josh's Stats](https://github-readme-stats-theta-seven.vercel.app/api?username=ret2binsh)]
 
 [website]: https://www.ret2bin.sh
 [linkedin]: https://www.linkedin.com/in/joshuabgonzales/
