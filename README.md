@@ -35,7 +35,7 @@
 <br />
 <br />
 
-<img align="left" alt="ret2binsh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ret2binsh&show_icons=true&hide_border=true" />
+[![ret2binsh's github stats](github-readme-stats.ret2binsh.vercel.app/api?username=ret2binsh)]
 
 [website]: https://www.ret2bin.sh
 [linkedin]: https://www.linkedin.com/in/joshuabgonzales/
