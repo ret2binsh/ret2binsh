@@ -1,6 +1,6 @@
 ### Hi all, I'm Josh - aka [ret2binsh][website] 👾
 
-## I'm a hobbyist, technophile, as well as a family focused.
+## I'm a hobbyist, technophile, as well as a family focused individual.
 - ⚔️ I’m currently working on CNO Dev.
 - ☄️ Self-taught with over 10 years xp creating projects & researching: ARM/AVR/electronics/exploit dev
 - ⚡️ 2020 Goals: Continue learning embedded device RE/exploit dev.
