@@ -7,10 +7,10 @@
 - 🏂 If I'm not coding, I'd prefer to be in Colorado snowboarding.
 
 ## A quick run-down of my experience:
-- 2007-2011 Network Engineering (CCNA, Routing/Switching technologies)
-- 2011-2013 Deployable Network Engineering + WAN/SATCOM
-- 2013-2017 Space-Based Network Engineering + Special Systems (JNCIA, RHCSA)
 - 2017-Now  Cyberspace Warfare Operations/ CNO DEV/ Vulnerability Research (GCFA, GXPN)
+- 2013-2017 Space-Based Network Engineering + Special Systems (JNCIA, RHCSA)
+- 2011-2013 Deployable Network Engineering + WAN/SATCOM
+- 2007-2011 Network Engineering (CCNA, Routing/Switching technologies)
 
 ### Connect with me:
 
