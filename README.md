@@ -37,5 +37,5 @@
 
 ![Josh's Stats](https://github-readme-stats-theta-seven.vercel.app/api?username=ret2binsh&theme=dark&show_icons=true&count_private=true)
 
-[website]: https://www.ret2bin.sh
+[website]: http://www.ret2bin.sh
 [linkedin]: https://www.linkedin.com/in/joshuabgonzales/
