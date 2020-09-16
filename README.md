@@ -1,10 +1,9 @@
 ### Hi all, I'm Josh - aka [ret2binsh][website] 👾
 
-## I'm a hobbyist, technophile, as well as a family focused individual.
-- ⚔️ I’m currently working on CNO Dev.
-- ☄️ Self-taught with over 10 years xp creating projects & researching: ARM/AVR/electronics/exploit dev
-- ⚡️ 2020 Goals: Continue learning embedded device RE/exploit dev.
-- 🏂 If I'm not coding, I'd prefer to be in Colorado snowboarding.
+## Currently working on CNO Dev and Vulnerability Research on Embedded Devices.
+- Self-taught with over 10 years xp creating projects & researching: ARM/AVR/electronics/exploit dev
+- 2020 Goals: Continue learning embedded device RE/exploit dev.
+- If I'm not coding, I'd prefer to be in Colorado snowboarding  🏂
 
 ## A quick run-down of my experience:
 - 2017-Now  Cyberspace Warfare Operations/ CNO DEV/ Vulnerability Research (GCFA, GXPN)
