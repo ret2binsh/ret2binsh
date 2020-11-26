@@ -1,4 +1,4 @@
-### Hi all, I'm Josh - aka [ret2binsh][website]
+### Hi all, I'm [Josh][website]
 
 ## Currently working on CNO Dev and Vulnerability Research on Embedded Devices.
 - Self-taught with over 10 years xp creating projects & researching: ARM/AVR/electronics/exploit dev
