@@ -1,16 +1,5 @@
 ### Hi all, I'm [Josh][website]
 
-## Currently working on CNO Dev and Vulnerability Research on Embedded Devices.
-- Self-taught with over 10 years xp creating projects & researching: ARM/AVR/electronics/exploit dev
-- 2020 Goals: Continue learning embedded device RE/exploit dev.
-- If I'm not coding, I'd prefer to be in Colorado snowboarding  🏂
-
-## A quick run-down of my experience:
-- 2017-Now  Cyberspace Warfare Operations/ CNO DEV/ Vulnerability Research (GCFA, GXPN)
-- 2013-2017 Space-Based Network Engineering + Special Systems (JNCIA, RHCSA)
-- 2011-2013 Deployable Network Engineering + WAN/SATCOM
-- 2007-2011 Network Engineering (CCNA, Routing/Switching technologies)
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
