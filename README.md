@@ -1,4 +1,4 @@
-### Hi all, I'm [Josh][website]
+### Hi all, I'm [Josh]
 
 ### Connect with me:
 
